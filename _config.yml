@@ -70,6 +70,7 @@ theme: april
 deploy:
   type: git
   repo: https://github.com/marpple/marpple.github.io.git
+  branch: gh-pages
 
 # Disqus comments
 disqus_shortname: marpple
