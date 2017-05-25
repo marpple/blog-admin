@@ -11,6 +11,7 @@ date: 2017-04-12 10:58:51
 
 ##### 마플 개발팀이 만들고 있는:
  - 우리가 사랑하는 마플 서비스! - http://www.marpple.com
+ - 마플의 세컨 브랜드 abym - http://www.abym.co.kr
  - 함수형 자바스크립트 라이브러리 - [Partial.js](https://marpple.github.io/partial.js)
  - 함수형 파이썬 라이브러리 - [Partial.py](https://marpple.github.io/partial.py)
 
